@@ -11,5 +11,3 @@
     copy:
      src: files/zshrc
      dest: /Users/mohamedbhaiyat/.zshrc
-     owner: mohamedbhaiyat
-     group: mohamedbhaiyat
